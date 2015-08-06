@@ -13,9 +13,9 @@ HOW TO COMPILE
 ###2. Compiling###
 
 * For M1 Note
-  <code>./build.sh m71</code>
+  <br /><code>./build.sh m71</code>
 * For M1
-  <code>./build.sh m79</code>
+  <br /><code>./build.sh m79</code>
 
   Note:
   + Make sure you have arm cross tool chain, maybe you can download [here](http://www.linaro.org/downloads)
